@@ -1,0 +1,6 @@
+browser=chrome
+url= https://www.easemytrip.com
+url1=https://www.easemytrip.com/hotels/
+City=Maldives
+chrome= D:\\Selenium\\chromedriver_win32\\chromedriver.exe
+url3 = https://hotels.easemytrip.com/newhotel/Hotel/HotelListing?e=202232083326&city=Bardez,%20Goa,%20India&cin=21/03/2022&cOut=25/03/2022&Hotel=NA&Rooms=1&pax=3_1_1

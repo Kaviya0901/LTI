@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-20T14:07:01 IST" name="Default suite" finished-at="2022-03-20T14:08:30 IST" duration-ms="89561">
+    <groups>
+    </groups>
+    <test started-at="2022-03-20T14:07:01 IST" name="Default test" finished-at="2022-03-20T14:08:30 IST" duration-ms="89561">
+      <class name="EaseTrip.testing">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:01 IST" name="beforeMethod" finished-at="2022-03-20T14:07:12 IST" duration-ms="11716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Hotelicon()[pri:1, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:12 IST" name="Hotelicon" finished-at="2022-03-20T14:07:30 IST" duration-ms="17825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hotelicon -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:30 IST" name="afterClass" finished-at="2022-03-20T14:07:31 IST" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:31 IST" name="beforeMethod" finished-at="2022-03-20T14:07:40 IST" duration-ms="8859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invaliddate()[pri:2, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:40 IST" name="invaliddate" finished-at="2022-03-20T14:07:52 IST" duration-ms="11866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invaliddate -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:52 IST" name="afterClass" finished-at="2022-03-20T14:07:53 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:07:53 IST" name="beforeMethod" finished-at="2022-03-20T14:08:01 IST" duration-ms="8196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="RemoveRoom()[pri:3, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:08:01 IST" name="RemoveRoom" finished-at="2022-03-20T14:08:13 IST" duration-ms="12253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveRoom -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:08:13 IST" name="afterClass" finished-at="2022-03-20T14:08:14 IST" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:08:14 IST" name="beforeMethod" finished-at="2022-03-20T14:08:25 IST" duration-ms="10686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="all_filters()[pri:4, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:08:25 IST" name="all_filters" finished-at="2022-03-20T14:08:30 IST" duration-ms="4878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all_filters -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:EaseTrip.testing@6a370f4]" started-at="2022-03-20T14:08:30 IST" name="afterClass" finished-at="2022-03-20T14:08:30 IST" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- EaseTrip.testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
